@@ -1,5 +1,3 @@
-import * as React from "react";
-
 function DeleteDetails() {
   return (
     <div className="flex flex-col gap-2 p-6 font-bold bg-white rounded-lg border border-solid shadow-2xl border-white border-opacity-0 max-w-[600px] max-md:px-5">
