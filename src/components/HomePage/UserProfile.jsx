@@ -1,5 +1,3 @@
-import React from 'react';
-
 function UserProfile() {
   return (
     <div className="flex gap-2 items-center mr-7">
